@@ -1,0 +1,14 @@
+layout_spectrum: 0.6244324
+color:
+  saturation: 0.5258276
+  brandStrength: 0.6630824
+  lightness: 0.8046595
+  brandColors:
+    - '#424242'
+    - '#1F1E16'
+    - '#FFFFFF'
+    - '#FFFBB4'
+    - '#BD9A67'
+  rhythmicContrast: 0.3902868
+typography_spectrum: 0.5376081
+name: Ugosimon
